@@ -80,7 +80,7 @@ public class FrameReader
 
             int perFrame = args.Length > 1 ? Convert.ToInt32(args[1]) : 0;
             double startTime = args.Length > 2 ? double.Parse(args[2], CultureInfo.InvariantCulture) : 0;
-            double endTime = args.Length > 2 ? double.Parse(args[3], CultureInfo.InvariantCulture) : 0;
+            double endTime = args.Length > 3 ? double.Parse(args[3], CultureInfo.InvariantCulture) : 0;
 
             ReadFrames(args[0], perFrame, startTime, endTime);
         }
