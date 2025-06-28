@@ -1,0 +1,44 @@
+﻿E:\OneDrive\Pulpit\fb activity\2025.06.27  ScrolingImages\frames\frame_0.jpg
+E:\OneDrive\Pulpit\fb activity\2025.06.27  ScrolingImages\frames\frame_2.jpg
+E:\OneDrive\Pulpit\fb activity\2025.06.27  ScrolingImages\frames\frame_4.jpg
+E:\OneDrive\Pulpit\fb activity\2025.06.27  ScrolingImages\frames\frame_6.jpg
+E:\OneDrive\Pulpit\fb activity\2025.06.27  ScrolingImages\frames\frame_8.jpg
+E:\OneDrive\Pulpit\fb activity\2025.06.27  ScrolingImages\frames\frame_10.jpg
+E:\OneDrive\Pulpit\fb activity\2025.06.27  ScrolingImages\frames\frame_12.jpg
+E:\OneDrive\Pulpit\fb activity\2025.06.27  ScrolingImages\frames\frame_14.jpg
+E:\OneDrive\Pulpit\fb activity\2025.06.27  ScrolingImages\frames\frame_16.jpg
+E:\OneDrive\Pulpit\fb activity\2025.06.27  ScrolingImages\frames\frame_18.jpg
+E:\OneDrive\Pulpit\fb activity\2025.06.27  ScrolingImages\frames\frame_20.jpg
+E:\OneDrive\Pulpit\fb activity\2025.06.27  ScrolingImages\frames\frame_22.jpg
+E:\OneDrive\Pulpit\fb activity\2025.06.27  ScrolingImages\frames\frame_24.jpg
+E:\OneDrive\Pulpit\fb activity\2025.06.27  ScrolingImages\frames\frame_26.jpg
+E:\OneDrive\Pulpit\fb activity\2025.06.27  ScrolingImages\frames\frame_28.jpg
+E:\OneDrive\Pulpit\fb activity\2025.06.27  ScrolingImages\frames\frame_30.jpg
+E:\OneDrive\Pulpit\fb activity\2025.06.27  ScrolingImages\frames\frame_32.jpg
+E:\OneDrive\Pulpit\fb activity\2025.06.27  ScrolingImages\frames\frame_34.jpg
+E:\OneDrive\Pulpit\fb activity\2025.06.27  ScrolingImages\frames\frame_36.jpg
+E:\OneDrive\Pulpit\fb activity\2025.06.27  ScrolingImages\frames\frame_38.jpg
+E:\OneDrive\Pulpit\fb activity\2025.06.27  ScrolingImages\frames\frame_40.jpg
+E:\OneDrive\Pulpit\fb activity\2025.06.27  ScrolingImages\frames\frame_42.jpg
+E:\OneDrive\Pulpit\fb activity\2025.06.27  ScrolingImages\frames\frame_44.jpg
+E:\OneDrive\Pulpit\fb activity\2025.06.27  ScrolingImages\frames\frame_46.jpg
+E:\OneDrive\Pulpit\fb activity\2025.06.27  ScrolingImages\frames\frame_48.jpg
+E:\OneDrive\Pulpit\fb activity\2025.06.27  ScrolingImages\frames\frame_50.jpg
+E:\OneDrive\Pulpit\fb activity\2025.06.27  ScrolingImages\frames\frame_52.jpg
+E:\OneDrive\Pulpit\fb activity\2025.06.27  ScrolingImages\frames\frame_54.jpg
+E:\OneDrive\Pulpit\fb activity\2025.06.27  ScrolingImages\frames\frame_56.jpg
+E:\OneDrive\Pulpit\fb activity\2025.06.27  ScrolingImages\frames\frame_58.jpg
+E:\OneDrive\Pulpit\fb activity\2025.06.27  ScrolingImages\frames\frame_60.jpg
+E:\OneDrive\Pulpit\fb activity\2025.06.27  ScrolingImages\frames\frame_62.jpg
+E:\OneDrive\Pulpit\fb activity\2025.06.27  ScrolingImages\frames\frame_64.jpg
+E:\OneDrive\Pulpit\fb activity\2025.06.27  ScrolingImages\frames\frame_66.jpg
+E:\OneDrive\Pulpit\fb activity\2025.06.27  ScrolingImages\frames\frame_68.jpg
+E:\OneDrive\Pulpit\fb activity\2025.06.27  ScrolingImages\frames\frame_70.jpg
+E:\OneDrive\Pulpit\fb activity\2025.06.27  ScrolingImages\frames\frame_72.jpg
+E:\OneDrive\Pulpit\fb activity\2025.06.27  ScrolingImages\frames\frame_74.jpg
+E:\OneDrive\Pulpit\fb activity\2025.06.27  ScrolingImages\frames\frame_76.jpg
+E:\OneDrive\Pulpit\fb activity\2025.06.27  ScrolingImages\frames\frame_78.jpg
+-binaryMask
+E:\OneDrive\Pulpit\fb activity\2025.06.27  ScrolingImages\Mark.jpg
+-maxMove
+0.5
